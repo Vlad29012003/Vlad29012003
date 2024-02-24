@@ -23,3 +23,11 @@ Welcome to my GitHub profile! I'm passionate about web development, innovation, 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad29012003&layout=compact&theme=radical)](https://github.com/Vlad29012003/github-readme-stats)
+
+### Contributions
+
+|               |                       |
+|---------------|-----------------------|
+| Total         | 499                   |
+| Current Streak| 0 (Feb 24)            |
+| Longest Streak| 8 (Sep 20, 2023 - Sep 27, 2023) |
