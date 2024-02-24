@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm passionate about web development, innovation, and all things Python. Here's a glimpse of what you'll find here:
 
-### Tech Stack:
+### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-orange?style=for-the-badge&logo=fastapi&logoColor=white)
