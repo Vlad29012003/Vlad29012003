@@ -15,3 +15,8 @@ Welcome to my GitHub profile! I'm passionate about web development, innovation, 
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-FF5733?style=for-the-badge&logo=api&logoColor=white)
+
+
+### 📊 GitHub Stats
+
+![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlad29012003&show_icons=true&theme=radical)
