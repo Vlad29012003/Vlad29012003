@@ -22,4 +22,4 @@ Welcome to my GitHub profile! I'm passionate about web development, innovation, 
 ![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlad29012003&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad29012003)](https://github.com/Vlad29012003/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad29012003&layout=compact&theme=radical)](https://github.com/Vlad29012003/github-readme-stats)
