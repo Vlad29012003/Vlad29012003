@@ -20,3 +20,9 @@ Welcome to my GitHub profile! I'm passionate about web development, innovation, 
 ### 📊 GitHub Stats
 
 ![Vladislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlad29012003&show_icons=true&theme=radical)
+
+
+#### Contributions
+- Total Contributions: 499
+- Current Streak: 0 (Feb 24)
+- Longest Streak: 8 (Sep 20, 2023 - Sep 27, 2023)
